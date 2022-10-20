@@ -4,7 +4,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogostein&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-##
+<hr/>
   
 <div align="center">
   <img align="center" title="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
@@ -17,7 +17,7 @@
   <img align="center" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
 </div>
   
- ##
+ <hr/>
  
 <div align="center"> 
   <a href = "mailto:diogo.ishihara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
