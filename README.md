@@ -1,3 +1,60 @@
+# Hi there 👋
+
+I'm Diogo Stein, a Senior Software Engineer from Brazil 🇧🇷 passionate about building scalable, maintainable and user-friendly mobile applications.
+
+📱 Over the last years I've been working primarily with Android, Kotlin, Jetpack Compose, Clean Architecture, Modularization and Design Systems.
+
+💼 Professionally, I enjoy solving complex product challenges, improving developer experience and building software that remains healthy as it grows.
+
+🧪 Outside of work, you'll usually find me exploring new technologies, creating codelabs, studying software architecture, frontend/backend development, web technologies, AI and anything that helps me become a better engineer.
+
+🚀 I strongly believe that great developers never stop learning. That's why I use this GitHub as a playground for experiments, studies and side projects.
+
+### Tech Stack
+
+* Kotlin / Java
+* Android SDK
+* Jetpack Compose
+* Kotlin Multiplatform (KMP)
+* Clean Architecture
+* MVVM / MVI
+* Design Systems
+* Modular Architecture
+* Coroutines & Flow
+* Firebase
+* REST APIs
+* Git & CI/CD
+
+### Current Interests
+
+* Android Architecture
+* Kotlin Multiplatform
+* Design Systems
+* Artificial Intelligence
+* Frontend & Backend Development
+* SaaS Products
+* User Experience (UX)
+
+### Hobbies & Interests
+
+When I'm away from Android Studio, you'll probably find me:
+
+🎮 Playing video games and exploring new worlds
+
+📈 Following the financial markets, investing and learning about long-term wealth building
+
+🐠 Taking care of my aquariums and enjoying the surprisingly relaxing world of aquarism
+
+🎸 Playing guitar and learning new songs whenever I can
+
+🛠️ Building side projects and experimenting with different technologies to continuously improve my engineering skills
+
+---
+
+📫 Feel free to connect with me on LinkedIn or explore some of the projects available here.
+
+---
+
 <div align="center">
   <a href="https://github.com/diogostein">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogostein&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
